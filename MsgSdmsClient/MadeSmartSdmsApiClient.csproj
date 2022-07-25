@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <Company>Van Oord</Company>
+    <Product>MadeSmart SDMS Client</Product>
+    <Authors>VOSS.NET Dev Team</Authors>
+    <PackageTags>SDMS, Client API, MadeSmart, VOSS.NET</PackageTags>
+    <Description>Library that provides access to the methods of the SDMS API to gather info on published data.</Description>
+    <PackageId>MadeSmartSdmsApiClient</PackageId>
+    <Copyright>Copyright Van Oord 2022</Copyright>
+    <PackageReleaseNotes>Initial release</PackageReleaseNotes>
+    <Version>0.3.0</Version>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+    <PackageReference Include="System.ComponentModel.Annotations" Version="5.0.0" />
+  </ItemGroup>
+
+</Project>
