@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32616.157
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MadeSmartSdmsApiClient", "MsgSdmsClient\MadeSmartSdmsApiClient.csproj", "{31D7E585-CED1-49BE-91D6-58B724813361}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MadeSmartSdmsApiClient", "MadeSmartSdmsApiClient\MadeSmartSdmsApiClient.csproj", "{31D7E585-CED1-49BE-91D6-58B724813361}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SdmsApiClientTests", "SdmsApiClientTests\SdmsApiClientTests.csproj", "{08173EC8-0705-4202-AF63-6EE5D5C69807}"
 EndProject

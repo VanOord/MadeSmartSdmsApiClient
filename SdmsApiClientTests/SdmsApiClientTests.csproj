@@ -14,7 +14,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\MsgSdmsClient\MadeSmartSdmsApiClient.csproj" />
+    <ProjectReference Include="..\MadeSmartSdmsApiClient\MadeSmartSdmsApiClient.csproj" />
   </ItemGroup>
 
 </Project>

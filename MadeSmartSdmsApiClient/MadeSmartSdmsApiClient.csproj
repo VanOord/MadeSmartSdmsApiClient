@@ -9,8 +9,8 @@
     <Description>Library that provides access to the methods of the SDMS API to gather info on published data.</Description>
     <PackageId>MadeSmartSdmsApiClient</PackageId>
     <Copyright>Copyright Van Oord 2022</Copyright>
-    <PackageReleaseNotes>Initial release</PackageReleaseNotes>
-    <Version>0.3.0</Version>
+    <PackageReleaseNotes>Updated namespace from MsgSdmsClient to MadeSmartSdmsApiClient</PackageReleaseNotes>
+    <Version>1.0.0</Version>
   </PropertyGroup>
 
   <ItemGroup>

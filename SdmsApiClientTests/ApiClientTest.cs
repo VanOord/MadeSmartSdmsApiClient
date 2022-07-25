@@ -1,4 +1,4 @@
-using MsgSdmsClient;
+using MadeSmartSdmsApiClient;
 using NUnit.Framework;
 using System;
 using System.ComponentModel;
@@ -59,7 +59,10 @@ namespace SdmsApiClientTests
     {
       var sdmsClient = new HttpClient();
 
-      var token = await GetToken("survey_sdmsapi", "$dms@pi4VanOordSurv3y");
+      string userName = "";
+      string password = "";
+
+      var token = await GetToken(userName, password);
       if (token == null)
         throw new WarningException("Unable to get a (new) token for the SDMS API.");
 
